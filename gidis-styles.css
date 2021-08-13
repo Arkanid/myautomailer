@@ -1,0 +1,74 @@
+body {
+    background-image: url("bg.jpg");
+
+}
+
+.myautomail {
+    text-align: center;
+    margin-top: 20px;
+    text-shadow: 2px 2px black;
+    color: white;
+    font-family: 'Chivo';
+}
+
+form{
+    text-align: center;
+}
+
+#gonderenisim{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 10px;
+    width: 500px;
+}
+
+#email{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 10px;
+    width: 500px;
+}
+
+#password{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 10px;
+    width: 500px;
+}
+
+#email2{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 10px;
+    width: 500px;
+}
+
+#konubaslik{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 10px;
+    width: 500px;
+}
+
+#bodykisim{
+    text-align: center;
+    width: 500px;
+    height: 300px;
+}
+
+.textareacss{
+    text-align: center;
+}
+
+#submit{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 10px;
+    width: 500px;
+}
